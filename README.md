@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
-
 # Machine Learning for Imbalanced Data
 
 <a href="https://www.amazon.com/dp/1801070830"><img src="https://m.media-amazon.com/images/I/51QuIZXp-sL._SY522_.jpg" alt="Machine Learning for Imbalanced Data" height="256px" align="right"></a>
