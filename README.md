@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
-
 # Machine Learning for Imbalanced Data
 
 <a href="https://www.amazon.com/dp/1801070830"><img src="https://m.media-amazon.com/images/I/51QuIZXp-sL._SY522_.jpg" alt="Machine Learning for Imbalanced Data" height="256px" align="right"></a>
