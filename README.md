@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/ship-production-pytorch-system-in-a-day-train-optimize-deploy-workshop-tickets-1983348934052?aff=GitHub'><img src='https://static.packt-cdn.com/assets/images/packt+events/workshop_ashish_github.png'/></a></p>
-
 # Machine Learning for Imbalanced Data
 
 <a href="https://www.amazon.com/dp/1801070830"><img src="https://m.media-amazon.com/images/I/51QuIZXp-sL._SY522_.jpg" alt="Machine Learning for Imbalanced Data" height="256px" align="right"></a>
